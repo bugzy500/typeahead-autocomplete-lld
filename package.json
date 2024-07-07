@@ -1,0 +1,11 @@
+{
+  "name": "typeahead-autocomplete",
+  "version": "1.0.0",
+  "description": "typeahead suggestions and autocomplete system design",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arpit Garg",
+  "license": "ISC"
+}
